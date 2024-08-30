@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hadefuwa
-- 🌱 I just graduated university.
-- I'm now working as an Electrical Control Engineer
+- I used to work as an Electrical Controls Engineer
+- Now I'm a blend of Electrical & Electronics :D
 
 <!---
 hadefuwa/hadefuwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
